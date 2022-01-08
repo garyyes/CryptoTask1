@@ -1,4 +1,4 @@
-# Crypto.com QA Automation Exercise
+# QA Automation Exercise
 ## Task 1
 
 ### Runtime Environment:
