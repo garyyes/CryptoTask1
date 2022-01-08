@@ -1,0 +1,173 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "automation test suite",
+    "children" : [ {
+      "name" : "Regression suite 1",
+      "children" : [ {
+        "name" : "crypto.test.weather.current_weather_report.ItemRainFallTest",
+        "children" : [ {
+          "name" : "testCurrentWeatherRainFallData",
+          "uid" : "3405f7955bdce1d5",
+          "parentUid" : "927c58b9abecf04e513e3b86f7d5c08c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1641576627589,
+            "stop" : 1641576629229,
+            "duration" : 1640
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCurrentWeatherRainFallStartTime",
+          "uid" : "d98583ee6d928295",
+          "parentUid" : "927c58b9abecf04e513e3b86f7d5c08c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1641576629452,
+            "stop" : 1641576629795,
+            "duration" : 343
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "927c58b9abecf04e513e3b86f7d5c08c"
+      }, {
+        "name" : "crypto.test.weather.current_weather_report.ItemIconTest",
+        "children" : [ {
+          "name" : "testCurrentWeatherIconData",
+          "uid" : "27ec0ab9857fbd05",
+          "parentUid" : "315ef186b668a435c006c6dea3a066be",
+          "status" : "broken",
+          "time" : {
+            "start" : 1641576629810,
+            "stop" : 1641576630108,
+            "duration" : 298
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "315ef186b668a435c006c6dea3a066be"
+      }, {
+        "name" : "crypto.test.weather.NineDaysWeatherTest",
+        "children" : [ {
+          "name" : "testNineDayWeather",
+          "uid" : "374f18d44af4a1aa",
+          "parentUid" : "9fca60fbbf78c77686db08be324dabf3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641576630113,
+            "stop" : 1641576630436,
+            "duration" : 323
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9fca60fbbf78c77686db08be324dabf3"
+      }, {
+        "name" : "crypto.test.weather.LocalWeatherTest",
+        "children" : [ {
+          "name" : "testLocalWeather",
+          "uid" : "4bf2b2683d5b1e4f",
+          "parentUid" : "ca5267ceea860d81646d6b4cb3faf456",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641576630439,
+            "stop" : 1641576630717,
+            "duration" : 278
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ca5267ceea860d81646d6b4cb3faf456"
+      }, {
+        "name" : "crypto.test.open_data.OpenDataTest",
+        "children" : [ {
+          "name" : "testOpenDataCSV",
+          "uid" : "efd007bbf68a64e3",
+          "parentUid" : "03ef1ccae5cc8cdb52e3e0a5d5c914d6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641576630723,
+            "stop" : 1641576631022,
+            "duration" : 299
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testOpenDataJson",
+          "uid" : "6f1363257152822f",
+          "parentUid" : "03ef1ccae5cc8cdb52e3e0a5d5c914d6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641576631027,
+            "stop" : 1641576631379,
+            "duration" : 352
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "03ef1ccae5cc8cdb52e3e0a5d5c914d6"
+      }, {
+        "name" : "crypto.test.earthquake.EarthquakeInfoTest",
+        "children" : [ {
+          "name" : "testNineDayWeather",
+          "uid" : "7bed3782d1928ac8",
+          "parentUid" : "4a6bb5558bdfa1b914c69941cc014090",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641576631385,
+            "stop" : 1641576631768,
+            "duration" : 383
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4a6bb5558bdfa1b914c69941cc014090"
+      } ],
+      "uid" : "adec70dc99df7165659e1b9f12419dea"
+    } ],
+    "uid" : "ae8b109f9dba6c55a27b8ea0be445a39"
+  } ],
+  "name" : "suites"
+}

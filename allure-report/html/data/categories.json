@@ -1,0 +1,64 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1086 path $.uvindex",
+      "children" : [ {
+        "name" : "testCurrentWeatherRainFallData",
+        "uid" : "3405f7955bdce1d5",
+        "parentUid" : "b79f37a877b99593c46c01e6007cebe4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576627589,
+          "stop" : 1641576629229,
+          "duration" : 1640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCurrentWeatherRainFallStartTime",
+        "uid" : "d98583ee6d928295",
+        "parentUid" : "b79f37a877b99593c46c01e6007cebe4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576629452,
+          "stop" : 1641576629795,
+          "duration" : 343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCurrentWeatherIconData",
+        "uid" : "27ec0ab9857fbd05",
+        "parentUid" : "b79f37a877b99593c46c01e6007cebe4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576629810,
+          "stop" : 1641576630108,
+          "duration" : 298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b79f37a877b99593c46c01e6007cebe4"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

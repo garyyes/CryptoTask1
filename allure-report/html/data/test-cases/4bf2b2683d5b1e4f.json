@@ -1,0 +1,66 @@
+{
+  "uid" : "4bf2b2683d5b1e4f",
+  "name" : "testLocalWeather",
+  "fullName" : "crypto.test.weather.LocalWeatherTest.testLocalWeather",
+  "historyId" : "3676f324c3784775ef9b25f2eaa1fd67",
+  "time" : {
+    "start" : 1641576630439,
+    "stop" : 1641576630717,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "crypto.test.weather.LocalWeatherTest"
+  }, {
+    "name" : "testClass",
+    "value" : "crypto.test.weather.LocalWeatherTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLocalWeather"
+  }, {
+    "name" : "parentSuite",
+    "value" : "automation test suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression suite 1"
+  }, {
+    "name" : "subSuite",
+    "value" : "crypto.test.weather.LocalWeatherTest"
+  }, {
+    "name" : "host",
+    "value" : "183eefba69f9"
+  }, {
+    "name" : "thread",
+    "value" : "33408@183eefba69f9.TestNG-test=Regression suite 1-1(21)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bf2b2683d5b1e4f.json",
+  "parameterValues" : [ ]
+}

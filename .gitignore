@@ -1,0 +1,9 @@
+**/target
+**/logs
+.idea
+*.iml
+**/allure-results
+**/.settings
+**/.project
+**/.classpath
+**/.scannerwork

@@ -1,0 +1,81 @@
+[ {
+  "uid" : "efd007bbf68a64e3",
+  "name" : "testOpenDataCSV",
+  "time" : {
+    "start" : 1641576630723,
+    "stop" : 1641576631022,
+    "duration" : 299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3405f7955bdce1d5",
+  "name" : "testCurrentWeatherRainFallData",
+  "time" : {
+    "start" : 1641576627589,
+    "stop" : 1641576629229,
+    "duration" : 1640
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d98583ee6d928295",
+  "name" : "testCurrentWeatherRainFallStartTime",
+  "time" : {
+    "start" : 1641576629452,
+    "stop" : 1641576629795,
+    "duration" : 343
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7bed3782d1928ac8",
+  "name" : "testNineDayWeather",
+  "time" : {
+    "start" : 1641576631385,
+    "stop" : 1641576631768,
+    "duration" : 383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bf2b2683d5b1e4f",
+  "name" : "testLocalWeather",
+  "time" : {
+    "start" : 1641576630439,
+    "stop" : 1641576630717,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27ec0ab9857fbd05",
+  "name" : "testCurrentWeatherIconData",
+  "time" : {
+    "start" : 1641576629810,
+    "stop" : 1641576630108,
+    "duration" : 298
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "374f18d44af4a1aa",
+  "name" : "testNineDayWeather",
+  "time" : {
+    "start" : 1641576630113,
+    "stop" : 1641576630436,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f1363257152822f",
+  "name" : "testOpenDataJson",
+  "time" : {
+    "start" : 1641576631027,
+    "stop" : 1641576631379,
+    "duration" : 352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

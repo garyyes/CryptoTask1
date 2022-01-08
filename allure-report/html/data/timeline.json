@@ -1,0 +1,149 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "183eefba69f9",
+    "children" : [ {
+      "name" : "33408@183eefba69f9.TestNG-test=Regression suite 1-1(21)",
+      "children" : [ {
+        "name" : "testLocalWeather",
+        "uid" : "4bf2b2683d5b1e4f",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641576630439,
+          "stop" : 1641576630717,
+          "duration" : 278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCurrentWeatherRainFallData",
+        "uid" : "3405f7955bdce1d5",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576627589,
+          "stop" : 1641576629229,
+          "duration" : 1640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testOpenDataCSV",
+        "uid" : "efd007bbf68a64e3",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641576630723,
+          "stop" : 1641576631022,
+          "duration" : 299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testOpenDataJson",
+        "uid" : "6f1363257152822f",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641576631027,
+          "stop" : 1641576631379,
+          "duration" : 352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testNineDayWeather",
+        "uid" : "374f18d44af4a1aa",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641576630113,
+          "stop" : 1641576630436,
+          "duration" : 323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCurrentWeatherRainFallStartTime",
+        "uid" : "d98583ee6d928295",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576629452,
+          "stop" : 1641576629795,
+          "duration" : 343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCurrentWeatherIconData",
+        "uid" : "27ec0ab9857fbd05",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1641576629810,
+          "stop" : 1641576630108,
+          "duration" : 298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testNineDayWeather",
+        "uid" : "7bed3782d1928ac8",
+        "parentUid" : "de0ac400dcaabe3443e88acb5f0275c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641576631385,
+          "stop" : 1641576631768,
+          "duration" : 383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de0ac400dcaabe3443e88acb5f0275c9"
+    } ],
+    "uid" : "7389bc258086616c1605462c764c95f4"
+  } ],
+  "name" : "timeline"
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "69045e41b9442455cb99844d317cf87b",
+    "name" : "Feature - Verify Current Weather report - RainFall",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ad81ebfe37fbc0943490a32358746bd5",
+    "name" : "Feature - Verify Current Weather report - Icon and IconUpdateTime",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9a015cd959e08ee9b75f8f60e03632ea",
+    "name" : "Feature - Open Data Response",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "4aa5a0b75b261bd2919d09035548194b",
+    "name" : "Feature - Earthquake Info Response",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}
